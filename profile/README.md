@@ -1,12 +1,17 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons.png">
+  <h1 style="text-align: center;">Arcticons</h1>
 
-<!--
+  <br>
 
-**Here are some ideas to get you started:**
+  ## Android
+  Download the latest versions here:
+  
+  [<img height="100" src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons.png">](https://arcticons-team.github.io/Arcticons/#dark)
+  [<img height="100" src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons_black.png">](https://arcticons-team.github.io/Arcticons/#light)
+  [<img height="100" src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons_you.png">](https://arcticons-team.github.io/Arcticons/#you)
+  [<img height="100" src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons_day_night.webp">](https://arcticons-team.github.io/Arcticons/#daynight)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+</div>
