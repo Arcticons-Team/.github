@@ -1,6 +1,6 @@
 <div align="center">
   
-  [img src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons.png">]([https://arcticons-team.github.io/Arcticons/#dark](https://github.com/Arcticons-Team/Arcticons))
+  [<img src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons.png">]([https://arcticons-team.github.io/Arcticons/#dark](https://github.com/Arcticons-Team/Arcticons))
   <h1 style="text-align: center;">Arcticons</h1>
 
   <br>
