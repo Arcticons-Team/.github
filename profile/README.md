@@ -1,8 +1,4 @@
 <div align="center">
-
-  We're moving away from GitHub to Codeberg! Check out our repo's over there :)
-  
-  https://codeberg.org/Arcticons
   
   [<img src="https://github.com/Arcticons-Team/Arcticons/blob/main/github/arcticons.png">](https://github.com/Arcticons-Team/Arcticons)
   <h1 style="text-align: center;">Arcticons</h1>
